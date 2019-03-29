@@ -1,0 +1,2776 @@
+IIDx	IID	KE_correct	name_code	name	GB	KE	Family	Name_number
+268	966	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Abumuhair	Other
+734	971	Abu Dhabi	Name 32 	Alqubaisi	Ajman_Emirati	Ajman_Emirati	Al Azdi	Other
+1725	974	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Boushi	Other
+S463	978	Abu Dhabi	Name 41 	Alshamsi	Dubai_Emirati	Dubai_Emirati	Al bufalasa	Other
+2949	684	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Hameeri	Other
+S22	683	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Hameeri	Other
+S138	682	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Hameeri	Other
+1359	988	Dubai	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Al Kalbani	Other
+4271	697	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Khaili	Other
+S150	695	Abu Dhabi	Name 20  	Alhajeri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Khaili	Other
+S484	687	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Khaili	Other
+2127	721	Abu Dhabi	Name 9a 	Alfalahi	Fujairah_Emirati	Fujairah_Emirati	Al Madhani	Other
+3250	708	Umm Al Quwain	Name 80 	Alali	Fujairah_Emirati	Fujairah_Emirati	Al Madhani	Other
+S475	698	Ras Al Khaimah	Name 68 	Alzaabi	Fujairah_Emirati	Fujairah_Emirati	Al Madhani	Other
+3389	993	Abu Dhabi	Name 9a 	Alfalahi	Fujairah_Emirati	Fujairah_Emirati	Al Sharqi	Other
+3893	865	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Shebli	Other
+S270	863	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Shebli	Other
+881	994	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Al Sheryani	Other
+2083	1002	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Aladwani	Other
+300	724	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alahbabi	Other
+2235	723	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alahbabi	Other
+FG75	722	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alahbabi	Other
+37	3361	Abu Dhabi	Name 41 	Alshamsi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+85	3360	Abu Dhabi	Name 41 	Alshamsi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+131	3358	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+286	3354	Umm Al Quwain	Name 80 	Alali	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+420	3350	Abu Dhabi	Name 8c	Alkhateri	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+442	3349	Umm Al Quwain	Name 80 	Alali	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+486	3344	Fujairah	Name 33b 	Alyammahi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+488	3343	Abu Dhabi	Name 26b 	Alsuwaidi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+526	3322	Abu Dhabi	Name 8a	Alberaiki	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+591	3321	Abu Dhabi	Name 21	Aldhaheri	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+599	3318	Ras Al Khaimah	Name 9b	Almehrzi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+605	3317	Ras Al Khaimah	Name 89 	Alshehhi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+708	3316	Fujairah	Name 7a	Alzahmi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+767	3313	Abu Dhabi	Name 66 	Almazrouei	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+843	3311	Ras Al Khaimah	Name 14b	Alshemaili	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+846	3310	Ras Al Khaimah	Name 23	Alhebsi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1086	3308	Dubai	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1153	3306	Abu Dhabi	Name 8a	Alberaiki	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1249	3293	Abu Dhabi	Name 66 	Almazrouei	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1257	3292	Abu Dhabi	Name 26b 	Alsuwaidi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1586	3291	Abu Dhabi	Name 26a 	Alrumaithi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1655	3274	Ras Al Khaimah	Name 89 	Alshehhi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1696	3268	Sharjah	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1743	3261	Abu Dhabi	Name 66 	Almazrouei	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2245	3250	Fujairah	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2246	3241	Fujairah	Name 15	Alzeyoodi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2273	3235	Ras Al Khaimah	Name 51 	Alnaqbi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2274	3228	Abu Dhabi	Name 32 	Alqubaisi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2305	3212	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2504	3174	Ras Al Khaimah	Name 89 	Alshehhi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2553	3170	Ras Al Khaimah	Name 68 	Alzaabi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2622	3097	Ras Al Khaimah	Name 89 	Alshehhi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2625	3096	Abu Dhabi	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2644	3080	Abu Dhabi	Name 26a 	Alrumaithi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2782	3070	Abu Dhabi	Name 66 	Almazrouei	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2845	3069	Abu Dhabi	Name 6a	Aldarmaki	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2898	3068	Sharjah	Name 12	Alqaydi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2929	3066	Abu Dhabi	Name 32 	Alqubaisi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+2973	3064	Abu Dhabi	Name 20  	Alhajeri	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3013	3060	Abu Dhabi	Name 21	Aldhaheri	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3014	3053	Sharjah	Name 12	Alqaydi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3349	3048	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3354	3044	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3438	3038	Dubai	Name 36	Alkaabi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3489	3034	Abu Dhabi	Name 20  	Alhajeri	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3494	3028	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3499	3020	Abu Dhabi	Name 33a 	Almehairi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3509	3019	Ras Al Khaimah	Name 89 	Alshehhi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3544	3018	Abu Dhabi	Name 32 	Alqubaisi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3570	3014	Umm Al Quwain	Name 80 	Alali	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3913	3013	Umm Al Quwain	Name 80 	Alali	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+3952	3003	Ras Al Khaimah	Name 51 	Alnaqbi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4104	3001	Abu Dhabi	Name 8a	Alberaiki	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4126	2999	Abu Dhabi	Name 19a	Alhameli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4160	2995	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4185	2993	Ras Al Khaimah	Name 68 	Alzaabi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4206	2989	Fujairah	Name 15	Alzeyoodi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4255	2987	Ras Al Khaimah	Name 68 	Alzaabi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4344	2985	Ras Al Khaimah	Name 68 	Alzaabi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4397	2981	Ras Al Khaimah	Name 51 	Alnaqbi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+4466	2979	Ras Al Khaimah	Name 89 	Alshehhi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+FG89	2973	Umm Al Quwain	Name 80 	Alali	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+FG112	2972	Ras Al Khaimah	Name 89 	Alshehhi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+FG134	2969	Abu Dhabi	Name 26b 	Alsuwaidi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+FG151	2968	Abu Dhabi	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S26	2966	Ras Al Khaimah	Name 51 	Alnaqbi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S49	2962	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S206	2961	Fujairah	Name 33b 	Alyammahi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S239	2950	Ajman	Name 43 	Alnuaimi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S241	2949	Abu Dhabi	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S274	2947	Abu Dhabi	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S278	2941	Abu Dhabi	Name 66 	Almazrouei	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S279	2940	Abu Dhabi	Name 6a	Aldarmaki	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S282	2938	Abu Dhabi	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S287	2936	Fujairah	Name 15	Alzeyoodi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S377	2932	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S393	2929	Umm Al Quwain	Name 80 	Alali	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S420	2928	Ras Al Khaimah	Name 89 	Alshehhi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S444	2926	Abu Dhabi	Name 41 	Alshamsi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+S490	2920	Abu Dhabi	Name_	Algefli	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alali	Name 80 
+1041	521	Abu Dhabi	Name 26a 	Alrumaithi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alalili	Other
+2618	513	Abu Dhabi	Name 142 	Almansoori	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alalili	Other
+3641	503	Sharjah	Name 17	Alhammoudi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alalili	Other
+FG1	498	Abu Dhabi	Name 41 	Alshamsi	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alalili	Other
+S404	495	Abu Dhabi	Name 66 	Almazrouei	Umm_al_Quwain_Emirati	Umm_al_Quwain_Emirati	Alalili	Other
+3930	736	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alamimi	Other
+S59	734	Ajman	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alamimi	Other
+S373	726	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alamimi	Other
+316	605	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alawani	Other
+1875	604	Ras Al Khaimah	Name 14b	Alshemaili	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alawani	Other
+4142	599	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alawani	Other
+FG153	597	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alawani	Other
+2637	874	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Albarood	Other
+3568	873	Abu Dhabi	Name 21	Aldhaheri	Fujairah_Emirati	Fujairah_Emirati	Albarood	Other
+107	240	Fujairah	Name 16	Alseraidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alberaiki	Name 8a
+548	236	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alberaiki	Name 8a
+2272	233	Abu Dhabi	Name 8c	Alkhateri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alberaiki	Name 8a
+3001	232	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alberaiki	Name 8a
+3306	231	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alberaiki	Name 8a
+3322	222	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alberaiki	Name 8a
+4108	221	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alberaiki	Name 8a
+4183	213	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alberaiki	Name 8a
+1861	1016	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alblooki	Other
+3894	882	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldahmani	Other
+4085	881	Abu Dhabi	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldahmani	Other
+2947	617	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarei	Other
+S231	616	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarei	Other
+S281	612	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarei	Other
+S319	607	Fujairah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarei	Other
+1232	456	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarmaki	Name 6a
+2940	452	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarmaki	Name 6a
+3069	442	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarmaki	Name 6a
+FG45	437	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarmaki	Name 6a
+S17	436	Fujairah	Name 7a	Alzahmi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarmaki	Name 6a
+S251	427	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldarmaki	Name 6a
+722	S55	Abu Dhabi	Name 11	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+751	S54	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+800	S53	Ras Al Khaimah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+831	S50	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+873	S499	Abu Dhabi	Name 8c	Alkhateri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+1107	S497	Abu Dhabi	Name 20  	Alhajeri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+1541	S496	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+1673	S492	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+1849	S490	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+2227	S49	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+2646	S489	Abu Dhabi	Name 11	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+3060	S488	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+3321	S484	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+3663	S482	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+3724	S481	Fujairah	Name 16	Alseraidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+3737	S480	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+4444	S475	Fujairah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+FG9	S473	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+S102	S470	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+S176	S469	Sharjah	Name 12	Alqaydi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+S288	S467	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Aldhaheri	Name 21
+182	1243	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+351	1240	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+544	1232	Abu Dhabi	Name 6a	Aldarmaki	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+545	1202	Abu Dhabi	Name 41 	Alshamsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+1025	1199	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+2301	1194	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+2882	1190	Abu Dhabi	Name 41 	Alshamsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+3658	1189	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+3996	1182	Sharjah	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+FG139	1173	Sharjah	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+S92	1171	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+S204	1164	Fujairah	Name 33b 	Alyammahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+S318	1163	Sharjah	Name 19b	Alketbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+S431	1157	Ras Al Khaimah	Name 14b	Alshemaili	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhanhani	Name 14a
+1661	751	Abu Dhabi	Name 21	Aldhaheri	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhuhoori	Other
+1676	745	Fujairah	Name 16	Alseraidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhuhoori	Other
+S53	739	Abu Dhabi	Name 26a 	Alrumaithi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Aldhuhoori	Other
+308	171	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+721	167	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+993	166	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+1120	162	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+1540	161	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+3613	157	Abu Dhabi	Name 19a	Alhameli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+4162	147	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+S259	146	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+S332	144	Abu Dhabi	Name 19a	Alhameli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alfalahi	Name 9a 
+988	1021	Ras Al Khaimah	Name 89 	Alshehhi	Dubai_Emirati	Dubai_Emirati	Alfalasi	Other
+1748	83	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+1994	82	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+2199	81	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+3495	73	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+3512	68	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+4052	37	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+4081	35	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+FG105	13	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+S55	12	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+S489	2	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Algefli	Name 11
+128	S98	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+391	S95	Sharjah	Name 17	Alhammoudi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+695	S94	Fujairah	Name 16	Alseraidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+850	S93	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+987	S92	Ras Al Khaimah	Name 14a	Aldhanhani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+1148	S90	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+2767	S88	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+3034	S82	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+3064	S80	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+3398	S79	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+3526	S77	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+3602	S75	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+4050	S7	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+FG47	S69	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+FG57	S66	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+FG59	S62	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+S58	S59	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+S194	S58	Abu Dhabi	Name 20  	Alhajeri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+S284	S57	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+S497	S56	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhajeri	Name 20  
+144	1685	Ras Al Khaimah	Name 9b	Almehrzi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+157	1676	Ras Al Khaimah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+1445	1674	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+1494	1673	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+1597	1671	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+1716	1666	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+1990	1661	Ras Al Khaimah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+2673	1660	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+2999	1659	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+3659	1658	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+3703	1657	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+3978	1655	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+4026	1654	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+FG25	1647	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+S168	1646	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+S170	1644	Abu Dhabi	Name 8d	Almarar	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+S317	1643	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+S363	1642	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+S459	1631	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhameli	Name 19a
+84	1540	Abu Dhabi	Name 9a 	Alfalahi	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+503	1539	Ajman	Name 43 	Alnuaimi	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+777	1521	Ras Al Khaimah	Name 89 	Alshehhi	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+813	1517	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+860	1510	Abu Dhabi	Name 26a 	Alrumaithi	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+1814	1499	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+2037	1497	Sharjah	Name 28 	Altunaiji	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+3434	1494	Abu Dhabi	Name 19a	Alhameli	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+3684	1492	Abu Dhabi	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+3983	1489	Ras Al Khaimah	Name 68 	Alzaabi	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+4021	1477	Ras Al Khaimah	Name 89 	Alshehhi	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+4256	1464	Abu Dhabi	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+4273	1463	Abu Dhabi	Name 66 	Almazrouei	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+FG137	1458	Abu Dhabi	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+S95	1455	Fujairah	Name 16	Alseraidi	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+S258	1445	Abu Dhabi	Name 19a	Alhameli	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+S315	1441	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Alhammoudi	Name 17
+785	773	Ras Al Khaimah	Name 68 	Alzaabi	Sharjah_Emirati	Sharjah_Emirati	Alhantoobi	Other
+3268	767	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Alhantoobi	Other
+S212	762	Abu Dhabi	Name 8c	Alkhateri	Sharjah_Emirati	Sharjah_Emirati	Alhantoobi	Other
+S434	1023	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhasani	Name 1
+394	268	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhassani	Name 8b
+838	267	Fujairah	Name 15	Alzeyoodi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhassani	Name 8b
+2292	253	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhassani	Name 8b
+2414	248	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhassani	Name 8b
+2612	245	Fujairah	Name 7a	Alzahmi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhassani	Name 8b
+3995	244	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhassani	Name 8b
+4191	243	Fujairah	Name 16	Alseraidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhassani	Name 8b
+S333	242	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alhassani	Name 8b
+146	S466	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+147	S465	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+232	S463	Dubai	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+236	S459	Abu Dhabi	Name 19a	Alhameli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+344	S457	Abu Dhabi	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+1364	S451	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+1585	S450	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+1719	S45	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+1741	S447	Ras Al Khaimah	Name 23	Alhebsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+2020	S444	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+2193	S437	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+2211	S436	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+2356	S434	Abu Dhabi	Name 1	Alhasani	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+2407	S433	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+3310	S431	Ras Al Khaimah	Name 14a	Aldhanhani	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+3373	S430	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+3579	S429	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+3674	S425	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+3942	S423	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+FG13	S421	Unknown	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+S148	S420	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+S293	S42	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+S447	S419	Abu Dhabi	Name 26a 	Alrumaithi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alhebsi	Name 23
+3335	#N/A	#N/A	#N/A	#N/A	Dubai_Emirati	Dubai_Emirati	Alhefeiti	Other
+S389	1025	Ras Al Khaimah	Name 14a	Aldhanhani	Dubai_Emirati	Dubai_Emirati	Alhefeiti	Other
+607	634	Abu Dhabi	Name 66 	Almazrouei	Fujairah_Emirati	Fujairah_Emirati	Alhindasi	Other
+1552	630	Ras Al Khaimah	Name 14b	Alshemaili	Fujairah_Emirati	Fujairah_Emirati	Alhindasi	Other
+2652	619	Ras Al Khaimah	Name 68 	Alzaabi	Fujairah_Emirati	Fujairah_Emirati	Alhindasi	Other
+S320	618	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alhindasi	Other
+3939	1031	Ras Al Khaimah	Name 89 	Alshehhi	Dubai_Emirati	Dubai_Emirati	Aljallaf	Other
+334	782	Ras Al Khaimah	Name 89 	Alshehhi	Sharjah_Emirati	Sharjah_Emirati	Aljasmi	Other
+2152	777	Sharjah	Name 17	Alhammoudi	Sharjah_Emirati	Sharjah_Emirati	Aljasmi	Other
+S300	776	Ras Al Khaimah	Name 68 	Alzaabi	Sharjah_Emirati	Sharjah_Emirati	Aljasmi	Other
+12	FG67	Fujairah	Name 33b 	Alyammahi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+125	FG66	Dubai	Name 36	Alkaabi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+167	FG65	Abu Dhabi	Name 26b 	Alsuwaidi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+171	FG63	Abu Dhabi	Name 142 	Almansoori	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+248	FG61	Ras Al Khaimah	Name_	Algefli	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+554	FG6	Abu Dhabi	Name 142 	Almansoori	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+637	FG59	Abu Dhabi	Name 20  	Alhajeri	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+922	FG58	Fujairah	Name 16	Alseraidi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+1046	FG57	Abu Dhabi	Name 20  	Alhajeri	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+1155	FG56	Ras Al Khaimah	Name 89 	Alshehhi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+1322	FG54	Ras Al Khaimah	Name 51 	Alnaqbi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+1368	FG51	Abu Dhabi	Name_	Algefli	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+1425	FG5	Ras Al Khaimah	Name 51 	Alnaqbi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+1751	FG48	Dubai	Name 36	Alkaabi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+2174	FG47	Abu Dhabi	Name 20  	Alhajeri	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+2254	FG45	Abu Dhabi	Name 6a	Aldarmaki	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+2333	FG43	Ajman	Name 43 	Alnuaimi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+2716	FG39	Abu Dhabi	Name 26b 	Alsuwaidi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+2916	FG37	Abu Dhabi	Name_	Algefli	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+3038	FG31	Abu Dhabi	Name 142 	Almansoori	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+3502	FG25	Abu Dhabi	Name 19a	Alhameli	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+3967	FG24	Fujairah	Name 16	Alseraidi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+4065	FG155	Abu Dhabi	Name 66 	Almazrouei	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+4079	FG153	Abu Dhabi	Name_	Algefli	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+4111	FG151	Umm Al Quwain	Name 80 	Alali	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+4132	FG146	Fujairah	Name 33b 	Alyammahi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+4428	FG144	Abu Dhabi	Name 33a 	Almehairi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+FG48	FG142	Ras Al Khaimah	Name 68 	Alzaabi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+FG66	FG139	Ras Al Khaimah	Name 14a	Aldhanhani	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+FG95	FG138	Abu Dhabi	Name 41 	Alshamsi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+FG107	FG137	Sharjah	Name 17	Alhammoudi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+S66	FG136	Abu Dhabi	Name 32 	Alqubaisi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+S201	FG135	Abu Dhabi	Name 41 	Alshamsi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+S301	FG134	Umm Al Quwain	Name 80 	Alali	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+S303	FG132	Abu Dhabi	Name 26a 	Alrumaithi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+S430	FG13	Ras Al Khaimah	Name 23	Alhebsi	Dubai_Emirati	Dubai_Emirati	Alkaabi	Name 36
+82	1627	Abu Dhabi	Name 32 	Alqubaisi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+665	1623	Abu Dhabi	Name 26b 	Alsuwaidi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+1163	1619	Fujairah	Name 15	Alzeyoodi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+1546	1617	Ras Al Khaimah	Name 51 	Alnaqbi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+1631	1612	Ras Al Khaimah	Name 14b	Alshemaili	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+1833	1608	Ras Al Khaimah	Name 51 	Alnaqbi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+2616	1597	Abu Dhabi	Name 19a	Alhameli	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+3439	1587	Abu Dhabi	Name 33a 	Almehairi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+3729	1586	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+3929	1585	Ras Al Khaimah	Name 23	Alhebsi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+4174	1576	Abu Dhabi	Name 32 	Alqubaisi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+4278	1573	Abu Dhabi	Name 32 	Alqubaisi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+FG121	1565	Ras Al Khaimah	Name 89 	Alshehhi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+S236	1561	Ras Al Khaimah	Name 51 	Alnaqbi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+S260	1559	Abu Dhabi	Name 8c	Alkhateri	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+S286	1558	Abu Dhabi	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+S351	1552	Fujairah	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+S367	1546	Sharjah	Name 19b	Alketbi	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+S371	1541	Abu Dhabi	Name 21	Aldhaheri	Sharjah_Emirati	Sharjah_Emirati	Alketbi	Name 19b
+1280	886	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alkhanbooli	Other
+FG61	884	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alkhanbooli	Other
+233	298	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhateri	Name 8c
+397	296	Unknown	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhateri	Name 8c
+762	294	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhateri	Name 8c
+1056	287	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhateri	Name 8c
+1559	286	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhateri	Name 8c
+3350	281	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhateri	Name 8c
+3731	277	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhateri	Name 8c
+S499	274	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhateri	Name 8c
+S2	798	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhemeiri	Other
+S50	796	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhemeiri	Other
+S285	785	Sharjah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alkhemeiri	Other
+97	894	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almaflahi	Other
+FG51	888	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almaflahi	Other
+1182	911	Ras Al Khaimah	Name 68 	Alzaabi	Sharjah_Emirati	Sharjah_Emirati	Almahrooqi	Other
+2577	909	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Almahrooqi	Other
+564	832	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Almanaei	Other
+1173	831	Abu Dhabi	Name 21	Aldhaheri	Sharjah_Emirati	Sharjah_Emirati	Almanaei	Other
+3619	821	Abu Dhabi	Name 41 	Alshamsi	Sharjah_Emirati	Sharjah_Emirati	Almanaei	Other
+2299	1035	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almanaseer	Other
+106	2432	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+108	2423	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+126	2422	Abu Dhabi	Name 8e	Almuhairbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+231	2417	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+253	2414	Abu Dhabi	Name 8b	Alhassani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+274	2407	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+277	2406	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+380	2401	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+417	2400	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+482	2399	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+513	2388	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+612	2385	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+618	2372	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+678	2365	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+684	2364	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+723	2356	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+736	2342	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+832	2340	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+841	2333	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+855	2324	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+874	2305	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+909	2301	Ras Al Khaimah	Name 14a	Aldhanhani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+939	2299	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+942	2298	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+969	2297	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+974	2294	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1002	2292	Abu Dhabi	Name 8b	Alhassani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1045	2290	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1103	2289	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1109	2288	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1171	2278	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1244	2274	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1292	2273	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1297	2272	Abu Dhabi	Name 8a	Alberaiki	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1339	2268	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1344	2264	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1441	2261	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1499	2254	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1517	2246	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1647	2245	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1770	2242	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1819	2238	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1828	2235	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1844	2228	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1855	2227	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1909	2214	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1912	2211	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+1933	2206	Ras Al Khaimah	Name 14b	Alshemaili	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2066	2202	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2091	2199	Abu Dhabi	Name 11	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2107	2194	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2288	2193	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2290	2181	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2298	2174	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2417	2161	Abu Dhabi	Name 8e	Almuhairbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2500	2152	Sharjah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2679	2149	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2688	2148	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2704	2137	Ajman	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2714	2130	Fujairah	Name 16	Alseraidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2804	2127	Fujairah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2810	2119	Ras Al Khaimah	Name 9b	Almehrzi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2817	2109	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2833	2107	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2834	2097	Ras Al Khaimah	Name 14b	Alshemaili	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2840	2093	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2878	2091	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2899	2088	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2900	2083	Sharjah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2905	2071	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2932	2070	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2962	2066	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+2995	2057	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3028	2055	Abu Dhabi	Name 8d	Almarar	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3044	2053	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3048	2037	Sharjah	Name 17	Alhammoudi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3212	2024	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3358	2020	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3368	2015	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3410	1994	Abu Dhabi	Name 11	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3428	1990	Abu Dhabi	Name 19a	Alhameli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3430	1965	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3432	1959	Fujairah	Name 16	Alseraidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3483	1958	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3485	1956	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3506	1955	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3528	1953	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3569	1952	Fujairah	Name 15	Alzeyoodi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3572	1949	Ajman	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3620	1948	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3626	1933	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3633	1921	Unknown	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3675	1919	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3680	1912	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3722	1910	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3727	1909	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3926	1897	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3969	1887	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3971	1886	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3989	1885	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+3991	1875	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4001	1871	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4008	1861	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4010	1857	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4025	1855	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4031	1852	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4074	1850	Abu Dhabi	Name 8d	Almarar	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4201	1849	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4231	1844	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4232	1841	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4233	1840	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4261	1833	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4282	1828	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+4405	1819	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+FG6	1814	Sharjah	Name 17	Alhammoudi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+FG31	1809	Fujairah	Name 7a	Alzahmi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+FG63	1801	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+FG129	1795	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S19	1794	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S34	1791	Ras Al Khaimah	Name 14b	Alshemaili	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S39	1781	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S62	1778	Unknown	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S69	1772	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S79	1770	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S80	1762	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S88	1758	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S90	1757	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S106	1754	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S124	1751	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S128	1748	Abu Dhabi	Name 11	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S131	1743	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S144	1741	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S180	1732	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S269	1725	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S360	1719	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S395	1717	Ras Al Khaimah	Name 14b	Alshemaili	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S406	1716	Abu Dhabi	Name 19a	Alhameli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S409	1709	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S414	1701	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S433	1700	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S465	1696	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+S496	84	Sharjah	Name 17	Alhammoudi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almansoori	Name 142 
+202	334	Sharjah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarar	Name 8d
+1644	331	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarar	Name 8d
+1850	323	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarar	Name 8d
+2055	316	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarar	Name 8d
+2433	314	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarar	Name 8d
+3869	308	Abu Dhabi	Name 9a 	Alfalahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarar	Name 8d
+S132	306	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarar	Name 8d
+S294	300	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarar	Name 8d
+404	544	Ras Al Khaimah	Name 14a	Aldhanhani	Dubai_Emirati	Dubai_Emirati	Almarashda	Other
+726	536	Abu Dhabi	Name 66 	Almazrouei	Dubai_Emirati	Dubai_Emirati	Almarashda	Other
+2242	526	Umm Al Quwain	Name 80 	Alali	Dubai_Emirati	Dubai_Emirati	Almarashda	Other
+4418	525	Abu Dhabi	Name 8e	Almuhairbi	Dubai_Emirati	Dubai_Emirati	Almarashda	Other
+S222	522	Ras Al Khaimah	Name 89 	Alshehhi	Dubai_Emirati	Dubai_Emirati	Almarashda	Other
+222	564	Sharjah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarri	Other
+1558	559	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarri	Other
+2920	554	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarri	Other
+FG8	548	Abu Dhabi	Name 8a	Alberaiki	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarri	Other
+S77	545	Ras Al Khaimah	Name 14a	Aldhanhani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almarri	Other
+427	1041	Umm Al Quwain	Name_	Algefli	Dubai_Emirati	Dubai_Emirati	Almarshoodi	Other
+458	841	Abu Dhabi	Name 142 	Almansoori	Dubai_Emirati	Dubai_Emirati	Almatrooshi	Other
+3488	839	Abu Dhabi	Name 32 	Alqubaisi	Dubai_Emirati	Dubai_Emirati	Almatrooshi	Other
+S382	838	Abu Dhabi	Name 8b	Alhassani	Dubai_Emirati	Dubai_Emirati	Almatrooshi	Other
+13	3942	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+68	3939	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+73	3934	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+180	3930	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+195	3929	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+350	3926	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+384	3923	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+415	3919	Sharjah	Name 12	Alqaydi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+416	3914	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+495	3913	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+536	3912	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+569	3910	Ras Al Khaimah	Name 14b	Alshemaili	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+571	3907	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+616	3906	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+634	3902	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+798	3897	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+927	3896	Fujairah	Name 7a	Alzahmi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+960	3894	Ras Al Khaimah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1018	3893	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1070	3888	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1251	3869	Abu Dhabi	Name 8d	Almarar	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1270	3746	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1337	3745	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1463	3737	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1642	3732	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1646	3731	Abu Dhabi	Name 8c	Alkhateri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1762	3729	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1885	3727	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+1955	3724	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+2432	3723	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+2485	3722	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+2547	3703	Abu Dhabi	Name 19a	Alhameli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+2557	3694	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+2574	3684	Sharjah	Name 17	Alhammoudi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+2895	3680	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+2941	3676	Unknown	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+3070	3675	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+3261	3674	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+3293	3671	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+3313	3669	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+3590	3666	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+3897	3664	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+3912	3663	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4034	3659	Abu Dhabi	Name 19a	Alhameli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4054	3658	Ras Al Khaimah	Name 14a	Aldhanhani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4125	3656	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4130	3653	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4184	3649	Abu Dhabi	Name 26a 	Alrumaithi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4235	3647	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4267	3641	Umm Al Quwain	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4268	3637	Fujairah	Name 15	Alzeyoodi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4284	3633	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4437	3632	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+4447	3626	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+FG155	3620	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S20	3619	Sharjah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S45	3614	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S192	3613	Abu Dhabi	Name 9a 	Alfalahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S218	3612	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S283	3602	Abu Dhabi	Name 20  	Alhajeri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S311	3597	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S379	3592	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S387	3591	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S425	3590	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S429	3586	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+S451	3580	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almazrouei	Name 66 
+132	S150	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+1035	S148	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+1587	S147	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+1709	S144	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+1781	S143	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+1871	S138	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+2015	S137	Abu Dhabi	Name 8e	Almuhairbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+2214	S135	Fujairah	Name 15	Alzeyoodi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+2365	S132	Abu Dhabi	Name 8d	Almarar	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+2400	S131	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+2401	S130	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+2516	S128	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+2569	S125	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+2662	S124	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+3020	S120	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+3411	S114	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+3422	S111	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+3597	S107	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+3671	S106	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+3968	S102	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+3994	S100	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+4048	FG97	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+4122	FG95	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+4338	FG94	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+FG144	FG9	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+S27	FG89	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+S114	FG87	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+S193	FG85	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+S224	FG82	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+S268	FG81	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+S334	FG8	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+S415	FG75	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+S473	FG7	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almehairi	Name 33a 
+1366	203	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+1685	202	Abu Dhabi	Name 8d	Almarar	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+2119	198	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+2894	195	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+3318	194	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+3426	188	Sharjah	Name 12	Alqaydi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+3458	184	Sharjah	Name 28 	Altunaiji	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+S208	182	Ras Al Khaimah	Name 14a	Aldhanhani	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+S209	180	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Almehrzi	Name 9b
+2385	922	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almesafri	Other
+S457	916	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almesafri	Other
+244	591	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almesmari	Other
+1700	589	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almesmari	Other
+2406	576	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almesmari	Other
+2968	571	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almesmari	Other
+S291	569	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almesmari	Other
+1659	850	Abu Dhabi	Name 20  	Alhajeri	Dubai_Emirati	Dubai_Emirati	Almuaini	Other
+3308	846	Umm Al Quwain	Name 80 	Alali	Dubai_Emirati	Dubai_Emirati	Almuaini	Other
+3457	843	Umm Al Quwain	Name 80 	Alali	Dubai_Emirati	Dubai_Emirati	Almuaini	Other
+525	369	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almuhairbi	Name 8e
+1094	361	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almuhairbi	Name 8e
+2161	355	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almuhairbi	Name 8e
+2422	351	Ras Al Khaimah	Name 14a	Aldhanhani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almuhairbi	Name 8e
+2490	350	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almuhairbi	Name 8e
+4123	347	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almuhairbi	Name 8e
+4440	344	Ras Al Khaimah	Name 23	Alhebsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almuhairbi	Name 8e
+S137	338	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Almuhairbi	Name 8e
+724	665	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alnahdi	Other
+1458	642	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alnahdi	Other
+3614	637	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alnahdi	Other
+3923	636	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alnahdi	Other
+117	4122	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+161	4121	Sharjah	Name 12	Alqaydi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+198	4115	Fujairah	Name 16	Alseraidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+281	4113	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+323	4111	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1255	4108	Abu Dhabi	Name 8a	Alberaiki	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1411	4104	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1561	4099	Abu Dhabi	Name 41 	Alshamsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1608	4093	Sharjah	Name 28 	Altunaiji	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1617	4085	Ras Al Khaimah	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1758	4082	Abu Dhabi	Name 26a 	Alrumaithi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1857	4081	Abu Dhabi	Name 11	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1897	4079	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+1965	4074	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2088	4065	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2297	4062	Unknown	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2399	4054	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2423	4052	Abu Dhabi	Name 11	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2649	4051	Fujairah	Name 33b 	Alyammahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2694	4050	Abu Dhabi	Name 20  	Alhajeri	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2698	4048	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2803	4046	Fujairah	Name 33b 	Alyammahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2910	4042	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2966	4040	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+2981	4036	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3003	4034	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3235	4032	Sharjah	Name 28 	Altunaiji	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3387	4031	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3479	4026	Abu Dhabi	Name 19a	Alhameli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3576	4025	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3653	4021	Sharjah	Name 17	Alhammoudi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3656	4016	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3666	4010	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3694	4008	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3732	4001	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3888	3996	Ras Al Khaimah	Name 14a	Aldhanhani	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3906	3995	Abu Dhabi	Name 8b	Alhassani	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3964	3994	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+3976	3991	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+4177	3989	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+4423	3983	Sharjah	Name 17	Alhammoudi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+4429	3978	Abu Dhabi	Name 19a	Alhameli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+4435	3976	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+FG5	3974	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+FG54	3971	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+FG114	3969	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+S7	3968	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+S25	3967	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+S57	3966	Abu Dhabi	Name 26a 	Alrumaithi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+S111	3964	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+S324	3952	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alnaqbi	Name 51 
+306	401	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alneyadi	Other
+1464	397	Abu Dhabi	Name 8c	Alkhateri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alneyadi	Other
+1492	394	Abu Dhabi	Name 8b	Alhassani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alneyadi	Other
+2938	391	Abu Dhabi	Name 20  	Alhajeri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alneyadi	Other
+3563	387	Ras Al Khaimah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alneyadi	Other
+FG37	384	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alneyadi	Other
+S394	380	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alneyadi	Other
+S413	378	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alneyadi	Other
+3	4270	Ajman	Name 43 	Alnuaimi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+162	4269	Unknown	Name_	Algefli	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+361	4268	Abu Dhabi	Name 66 	Almazrouei	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+378	4267	Abu Dhabi	Name 66 	Almazrouei	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+617	4261	Abu Dhabi	Name 142 	Almansoori	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+697	4259	Sharjah	Name 28 	Altunaiji	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+863	4256	Sharjah	Name 17	Alhammoudi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+894	4255	Umm Al Quwain	Name 80 	Alali	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+916	4250	Sharjah	Name 28 	Altunaiji	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+1074	4248	Sharjah	Name 28 	Altunaiji	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+1365	4247	Abu Dhabi	Name 41 	Alshamsi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+1539	4235	Abu Dhabi	Name 66 	Almazrouei	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+1654	4233	Abu Dhabi	Name 142 	Almansoori	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+1671	4232	Abu Dhabi	Name 142 	Almansoori	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+1674	4231	Abu Dhabi	Name 142 	Almansoori	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+2057	4218	Abu Dhabi	Name 41 	Alshamsi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+2264	4217	Ras Al Khaimah	Name 89 	Alshehhi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+2268	4206	Umm Al Quwain	Name 80 	Alali	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+2664	4201	Abu Dhabi	Name 142 	Almansoori	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+2865	4191	Abu Dhabi	Name 8b	Alhassani	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+2888	4187	Ras Al Khaimah	Name 14b	Alshemaili	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+2889	4185	Umm Al Quwain	Name 80 	Alali	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+2950	4184	Abu Dhabi	Name 66 	Almazrouei	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+3465	4183	Abu Dhabi	Name 8a	Alberaiki	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+3473	4182	Abu Dhabi	Name 26a 	Alrumaithi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+3520	4178	Ras Al Khaimah	Name 89 	Alshehhi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+3536	4177	Ras Al Khaimah	Name 51 	Alnaqbi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+3567	4175	Abu Dhabi	Name 41 	Alshamsi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+3591	4174	Sharjah	Name 19b	Alketbi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+4113	4172	Ras Al Khaimah	Name 89 	Alshehhi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+4159	4170	Abu Dhabi	Name 32 	Alqubaisi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+4270	4162	Abu Dhabi	Name 9a 	Alfalahi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+4302	4160	Umm Al Quwain	Name 80 	Alali	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+4412	4159	Ajman	Name 43 	Alnuaimi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+FG43	4147	Abu Dhabi	Name 26b 	Alsuwaidi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+FG94	4144	Abu Dhabi	Name 26b 	Alsuwaidi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+FG126	4142	Abu Dhabi	Name_	Algefli	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+S182	4133	Abu Dhabi	Name 26b 	Alsuwaidi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+S207	4132	Dubai	Name 36	Alkaabi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+S257	4130	Abu Dhabi	Name 66 	Almazrouei	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+S374	4126	Umm Al Quwain	Name 80 	Alali	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+S390	4125	Abu Dhabi	Name 66 	Almazrouei	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+S488	4123	Abu Dhabi	Name 8e	Almuhairbi	Ajman_Emirati	Ajman_Emirati	Alnuaimi	Name 43 
+951	488	Umm Al Quwain	Name 80 	Alali	Ajman_Emirati	Ajman_Emirati	Alobaidly	Other
+1949	486	Umm Al Quwain	Name 80 	Alali	Ajman_Emirati	Ajman_Emirati	Alobaidly	Other
+2137	483	Ras Al Khaimah	Name 89 	Alshehhi	Ajman_Emirati	Ajman_Emirati	Alobaidly	Other
+2786	482	Abu Dhabi	Name 142 	Almansoori	Ajman_Emirati	Ajman_Emirati	Alobaidly	Other
+4286	475	Abu Dhabi	Name_	Algefli	Ajman_Emirati	Ajman_Emirati	Alobaidly	Other
+S160	458	Dubai	Name_	Algefli	Ajman_Emirati	Ajman_Emirati	Alobaidly	Other
+1370	931	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alotaiba	Other
+2238	927	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alotaiba	Other
+475	678	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqamzi	Other
+2549	672	Fujairah	Name 15	Alzeyoodi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqamzi	Other
+3669	667	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqamzi	Other
+FG108	666	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqamzi	Other
+387	939	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alqasimi	Other
+814	932	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alqasimi	Other
+188	132	Abu Dhabi	Name 33a 	Almehairi	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+954	131	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+2902	130	Ras Al Khaimah	Name 68 	Alzaabi	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+3053	128	Abu Dhabi	Name 20  	Alhajeri	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+3068	126	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+3919	125	Dubai	Name 36	Alkaabi	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+4121	117	Ras Al Khaimah	Name 51 	Alnaqbi	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+S197	108	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+S362	107	Abu Dhabi	Name 8a	Alberaiki	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+S376	106	Abu Dhabi	Name 142 	Almansoori	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+S405	97	Abu Dhabi	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+S469	85	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Alqaydi	Name 12
+203	S272	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+213	S270	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+287	S27	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+298	S269	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+666	S268	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+839	S266	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+865	S263	Ras Al Khaimah	Name 14b	Alshemaili	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+971	S262	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1077	S261	Abu Dhabi	Name 41 	Alshamsi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1199	S260	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1243	S26	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1573	S259	Abu Dhabi	Name 9a 	Alfalahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1576	S258	Sharjah	Name 17	Alhammoudi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1627	S257	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1801	S251	Abu Dhabi	Name 6a	Aldarmaki	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1852	S25	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1910	S246	Unknown	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+1956	S243	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+2294	S241	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+2469	S240	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+3018	S239	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+3066	S238	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+3228	S236	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+3393	S234	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+3397	S233	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+3562	S232	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+3592	S231	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+4042	S224	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+4170	S222	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+4298	S22	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+FG136	S218	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+S304	S216	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alqubaisi	Name 32 
+521	S367	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+739	S366	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+994	S363	Abu Dhabi	Name 19a	Alhameli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+1406	S362	Sharjah	Name 12	Alqaydi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+1510	S360	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+1772	S359	Fujairah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+1887	S356	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+2070	S353	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+2093	S351	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+2202	S347	Fujairah	Name 16	Alseraidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+2289	S343	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+2342	S342	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+2578	S34	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+2604	S337	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+2847	S334	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+3080	S333	Abu Dhabi	Name 8b	Alhassani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+3291	S332	Abu Dhabi	Name 9a 	Alfalahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+3649	S330	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+3966	S326	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+4082	S324	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+4182	S323	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+FG132	S322	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+S172	S320	Fujairah	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+S419	S32	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+S467	S319	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+S482	S318	Ras Al Khaimah	Name 14a	Aldhanhani	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alrumaithi	Name 26a 
+240	1428	Sharjah	Name 28 	Altunaiji	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+243	1425	Dubai	Name 36	Alkaabi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+745	1411	Ras Al Khaimah	Name 51 	Alnaqbi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+1455	1406	Abu Dhabi	Name 26a 	Alrumaithi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+1959	1389	Ras Al Khaimah	Name 68 	Alzaabi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+2130	1385	Ras Al Khaimah	Name 68 	Alzaabi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+2739	1381	Fujairah	Name 15	Alzeyoodi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+3366	1370	Abu Dhabi	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+3524	1368	Dubai	Name 36	Alkaabi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+4115	1366	Ras Al Khaimah	Name 9b	Almehrzi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+FG24	1365	Ajman	Name 43 	Alnuaimi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+FG58	1364	Ras Al Khaimah	Name 23	Alhebsi	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+FG119	1359	Fujairah	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+S94	1344	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+S347	1339	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+S481	1337	Abu Dhabi	Name 66 	Almazrouei	Fujairah_Emirati	Fujairah_Emirati	Alseraidi	Name 16
+83	FG129	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+221	FG126	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+331	FG121	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+452	FG119	Fujairah	Name 16	Alseraidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+498	FG114	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+821	FG112	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+978	FG108	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1190	FG107	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1202	FG105	Abu Dhabi	Name 11	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1245	FG103	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1269	FG1	Umm Al Quwain	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1271	4466	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1643	4447	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1657	4446	Fujairah	Name 15	Alzeyoodi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1666	4444	Abu Dhabi	Name 21	Aldhaheri	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1795	4440	Abu Dhabi	Name 8e	Almuhairbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+1841	4439	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+2148	4437	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+2926	4435	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3360	4432	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3361	4429	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3388	4428	Dubai	Name 36	Alkaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3407	4425	Abu Dhabi	Name 26b 	Alsuwaidi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3415	4423	Ras Al Khaimah	Name 51 	Alnaqbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3535	4418	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3664	4412	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3745	4405	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+3914	4402	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+4099	4397	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+4175	4393	Sharjah	Name 28 	Altunaiji	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+4218	4344	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+4247	4338	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+FG81	4302	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+FG135	4298	Abu Dhabi	Name 32 	Alqubaisi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+FG138	4286	Ajman	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+S98	4284	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+S261	4282	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+S272	4278	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+S280	4275	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+S296	4273	Sharjah	Name 17	Alhammoudi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+S492	4271	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alshamsi	Name 41 
+35	2919	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+166	2916	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+194	2910	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+347	2905	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+407	2903	Fujairah	Name 15	Alzeyoodi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+483	2902	Sharjah	Name 12	Alqaydi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+522	2900	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+683	2899	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+687	2898	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+782	2895	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+882	2894	Ras Al Khaimah	Name 9b	Almehrzi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+886	2889	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+931	2888	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+932	2885	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+966	2882	Ras Al Khaimah	Name 14a	Aldhanhani	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1021	2878	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1031	2877	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1061	2866	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1113	2865	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1194	2859	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1324	2857	Abu Dhabi	Name 26b 	Alsuwaidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1477	2847	Abu Dhabi	Name 26a 	Alrumaithi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1521	2845	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1565	2840	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1660	2834	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1754	2833	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+1919	2821	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2194	2817	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2278	2810	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2441	2805	Fujairah	Name 33b 	Alyammahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2543	2804	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2608	2803	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2692	2797	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2821	2791	Abu Dhabi	Name 26b 	Alsuwaidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2859	2788	Fujairah	Name 15	Alzeyoodi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2877	2786	Ajman	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2885	2782	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2919	2770	Fujairah	Name 33b 	Alyammahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2928	2769	Sharjah	Name 28 	Altunaiji	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2972	2767	Abu Dhabi	Name 20  	Alhajeri	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+2979	2752	Abu Dhabi	Name 26b 	Alsuwaidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3019	2751	Abu Dhabi	Name 26b 	Alsuwaidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3097	2739	Fujairah	Name 16	Alseraidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3174	2732	Fujairah	Name 33b 	Alyammahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3274	2716	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3317	2714	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3456	2704	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3461	2698	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3530	2694	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3559	2692	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3571	2688	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3612	2683	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3632	2679	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3647	2673	Abu Dhabi	Name 19a	Alhameli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3746	2664	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3902	2662	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+3974	2652	Fujairah	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+4040	2649	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+4172	2646	Abu Dhabi	Name 21	Aldhaheri	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+4178	2644	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+4217	2637	Fujairah	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+FG56	2625	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+FG85	2622	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S56	2618	Umm Al Quwain	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S93	2616	Sharjah	Name 19b	Alketbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S100	2612	Abu Dhabi	Name 8b	Alhassani	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S107	2608	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S120	2604	Abu Dhabi	Name 26a 	Alrumaithi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S147	2594	Ras Al Khaimah	Name 14b	Alshemaili	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S152	2583	Abu Dhabi	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S195	2578	Abu Dhabi	Name 26a 	Alrumaithi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S196	2577	Sharjah	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S200	2574	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S202	2569	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S233	2557	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S234	2553	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S240	2549	Abu Dhabi	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S243	2547	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S308	2543	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S330	2516	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S337	2504	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S353	2500	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S356	2490	Abu Dhabi	Name 8e	Almuhairbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S416	2485	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S423	2483	Fujairah	Name 33b 	Alyammahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S437	2479	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S466	2469	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S470	2441	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+S480	2433	Abu Dhabi	Name 8d	Almarar	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshehhi	Name 89 
+604	1155	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+630	1153	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+1157	1148	Abu Dhabi	Name 20  	Alhajeri	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+1612	1120	Abu Dhabi	Name 9a 	Alfalahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+1717	1113	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+1791	1109	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+2097	1107	Abu Dhabi	Name 21	Aldhaheri	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+2206	1104	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+2594	1103	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+3311	1094	Abu Dhabi	Name 8e	Almuhairbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+3419	1086	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+3910	1077	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+4187	1074	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+S263	1070	Abu Dhabi	Name 66 	Almazrouei	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alshemaili	Name 14b
+796	1045	Abu Dhabi	Name 142 	Almansoori	Dubai_Emirati	Dubai_Emirati	Alsubhi	Other
+81	S418	Fujairah	Name 33b 	Alyammahi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+437	S417	Unknown	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+597	S416	Ras Al Khaimah	Name 89 	Alshehhi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+888	S415	Abu Dhabi	Name 33a 	Almehairi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+1016	S414	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+1623	S413	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+2324	S409	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+2372	S406	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+2751	S405	Sharjah	Name 12	Alqaydi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+2752	S404	Umm Al Quwain	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+2791	S395	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+2857	S394	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+2969	S393	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+3292	S390	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+3343	S39	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+3418	S389	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+3529	S387	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+3586	S382	Dubai	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+4133	S381	Fujairah	Name 15	Alzeyoodi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+4144	S379	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+4147	S377	Umm Al Quwain	Name 80 	Alali	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+4425	S376	Sharjah	Name 12	Alqaydi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+FG39	S374	Ajman	Name 43 	Alnuaimi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+FG65	S373	Abu Dhabi	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+S163	S371	Sharjah	Name 19b	Alketbi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+S342	S368	Ras Al Khaimah	Name 68 	Alzaabi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Alsuwaidi	Name 26b 
+184	S317	Abu Dhabi	Name 19a	Alhameli	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+294	S315	Sharjah	Name 17	Alhammoudi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+369	S311	Abu Dhabi	Name 66 	Almazrouei	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+456	S310	Ras Al Khaimah	Name 68 	Alzaabi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+667	S308	Ras Al Khaimah	Name 89 	Alshehhi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+1030	S304	Abu Dhabi	Name 32 	Alqubaisi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+1428	S303	Dubai	Name 36	Alkaabi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+1497	S301	Dubai	Name 36	Alkaabi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+1757	S300	Sharjah	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+1948	S298	Fujairah	Name 33b 	Alyammahi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+2071	S296	Abu Dhabi	Name 41 	Alshamsi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+2109	S294	Abu Dhabi	Name 8d	Almarar	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+2769	S293	Ras Al Khaimah	Name 23	Alhebsi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+3723	S291	Abu Dhabi	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+4032	S288	Abu Dhabi	Name 21	Aldhaheri	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+4093	S287	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+4248	S286	Sharjah	Name 19b	Alketbi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+4250	S285	Abu Dhabi	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+4259	S284	Abu Dhabi	Name 20  	Alhajeri	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+4393	S283	Abu Dhabi	Name 66 	Almazrouei	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+FG7	S282	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+FG82	S281	Abu Dhabi	Name_	Algefli	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+FG103	S280	Abu Dhabi	Name 41 	Alshamsi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+S183	S279	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+S205	S278	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+S277	S277	Sharjah	Name 28 	Altunaiji	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+S322	S276	Fujairah	Name 33b 	Alyammahi	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+S323	S274	Umm Al Quwain	Name 80 	Alali	Sharjah_Emirati	Sharjah_Emirati	Altunaiji	Name 28 
+559	S212	Sharjah	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+576	S209	Ras Al Khaimah	Name 9b	Almehrzi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+589	S208	Ras Al Khaimah	Name 9b	Almehrzi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+1023	S207	Ajman	Name 43 	Alnuaimi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+1164	S206	Umm Al Quwain	Name 80 	Alali	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+1701	S205	Sharjah	Name 28 	Altunaiji	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+1794	S204	Ras Al Khaimah	Name 14a	Aldhanhani	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+1840	S202	Ras Al Khaimah	Name 89 	Alshehhi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+1886	S201	Dubai	Name 36	Alkaabi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+1953	S200	Ras Al Khaimah	Name 89 	Alshehhi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+2483	S20	Abu Dhabi	Name 66 	Almazrouei	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+2732	S2	Abu Dhabi	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+2770	S199	Ras Al Khaimah	Name 68 	Alzaabi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+2805	S197	Sharjah	Name 12	Alqaydi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+2961	S196	Ras Al Khaimah	Name 89 	Alshehhi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+3344	S195	Ras Al Khaimah	Name 89 	Alshehhi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+3508	S194	Abu Dhabi	Name 20  	Alhajeri	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+3580	S193	Abu Dhabi	Name 33a 	Almehairi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+4046	S192	Abu Dhabi	Name 66 	Almazrouei	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+4051	S19	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+FG67	S183	Sharjah	Name 28 	Altunaiji	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+FG97	S182	Ajman	Name 43 	Alnuaimi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+FG146	S180	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S32	S178	Ras Al Khaimah	Name 68 	Alzaabi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S54	S176	Abu Dhabi	Name 21	Aldhaheri	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S82	S172	Abu Dhabi	Name 26a 	Alrumaithi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S125	S170	Abu Dhabi	Name 19a	Alhameli	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S143	S17	Abu Dhabi	Name 6a	Aldarmaki	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S166	S168	Abu Dhabi	Name 19a	Alhameli	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S262	S166	Fujairah	Name 33b 	Alyammahi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S276	S163	Abu Dhabi	Name 26b 	Alsuwaidi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S298	S160	Ajman	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+S418	S152	Ras Al Khaimah	Name 89 	Alshehhi	Fujairah_Emirati	Fujairah_Emirati	Alyammahi	Name 33b 
+1060	1046	Dubai	Name 36	Alkaabi	Fujairah_Emirati	Fujairah_Emirati	Alyileili	Other
+2	3579	Ras Al Khaimah	Name 23	Alhebsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+130	3576	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+242	3572	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+314	3571	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+338	3570	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+355	3569	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+401	3568	Fujairah	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+619	3567	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+636	3563	Abu Dhabi	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+642	3562	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+682	3559	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+698	3544	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+773	3536	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+776	3535	Abu Dhabi	Name 41 	Alshamsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+884	3530	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+911	3529	Abu Dhabi	Name 26b 	Alsuwaidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1104	3528	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1189	3526	Abu Dhabi	Name 20  	Alhajeri	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1240	3525	Fujairah	Name 15	Alzeyoodi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1385	3524	Fujairah	Name 16	Alseraidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1389	3520	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1489	3516	Unknown	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1658	3512	Abu Dhabi	Name 11	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1732	3509	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+1958	3508	Fujairah	Name 33b 	Alyammahi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2024	3506	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2053	3502	Dubai	Name 36	Alkaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2149	3499	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2181	3495	Abu Dhabi	Name 11	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2261	3494	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2340	3489	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2364	3488	Dubai	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2388	3485	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2479	3483	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2683	3479	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2797	3473	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2866	3465	Ajman	Name 43 	Alnuaimi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2985	3461	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2987	3460	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+2993	3458	Ras Al Khaimah	Name 9b	Almehrzi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+3170	3457	Dubai	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+3381	3456	Ras Al Khaimah	Name 89 	Alshehhi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+3391	3439	Sharjah	Name 19b	Alketbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+3460	3438	Umm Al Quwain	Name 80 	Alali	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+3907	3434	Sharjah	Name 17	Alhammoudi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+4016	3432	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+4036	3430	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+4275	3428	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+4402	3426	Ras Al Khaimah	Name 9b	Almehrzi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+4432	3425	Fujairah	Name 7a	Alzahmi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+4439	3422	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+FG142	3419	Ras Al Khaimah	Name 14b	Alshemaili	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S42	3418	Abu Dhabi	Name 26b 	Alsuwaidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S75	3415	Abu Dhabi	Name 41 	Alshamsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S130	3411	Abu Dhabi	Name 33a 	Almehairi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S178	3410	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S199	3407	Abu Dhabi	Name 41 	Alshamsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S216	3398	Abu Dhabi	Name 20  	Alhajeri	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S232	3397	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S238	3393	Abu Dhabi	Name 32 	Alqubaisi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S266	3391	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S310	3389	Fujairah	Name_	Algefli	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S326	3388	Abu Dhabi	Name 41 	Alshamsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S343	3387	Ras Al Khaimah	Name 51 	Alnaqbi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S366	3381	Ras Al Khaimah	Name 68 	Alzaabi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S368	3373	Ras Al Khaimah	Name 23	Alhebsi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S436	3368	Abu Dhabi	Name 142 	Almansoori	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+S450	3366	Fujairah	Name 16	Alseraidi	Ras_al_Khaimah_Emirati	Ras_al_Khaimah_Emirati	Alzaabi	Name 68 
+245	420	Umm Al Quwain	Name 80 	Alali	Fujairah_Emirati	Fujairah_Emirati	Alzahmi	Name 7a
+409	417	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alzahmi	Name 7a
+436	416	Abu Dhabi	Name 66 	Almazrouei	Fujairah_Emirati	Fujairah_Emirati	Alzahmi	Name 7a
+1809	415	Abu Dhabi	Name 66 	Almazrouei	Fujairah_Emirati	Fujairah_Emirati	Alzahmi	Name 7a
+3316	409	Fujairah	Name 7a	Alzahmi	Fujairah_Emirati	Fujairah_Emirati	Alzahmi	Name 7a
+3425	407	Ras Al Khaimah	Name 89 	Alshehhi	Fujairah_Emirati	Fujairah_Emirati	Alzahmi	Name 7a
+3896	404	Dubai	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Alzahmi	Name 7a
+267	1335	Unknown	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+672	1324	Ras Al Khaimah	Name 89 	Alshehhi	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+1381	1322	Dubai	Name 36	Alkaabi	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+1619	1297	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+1952	1292	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+2788	1280	Ras Al Khaimah	Name_	Algefli	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+2903	1271	Abu Dhabi	Name 41 	Alshamsi	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+2936	1270	Abu Dhabi	Name 66 	Almazrouei	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+2989	1269	Abu Dhabi	Name 41 	Alshamsi	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+3241	1257	Umm Al Quwain	Name 80 	Alali	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+3525	1255	Ras Al Khaimah	Name 51 	Alnaqbi	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+3637	1251	Abu Dhabi	Name 66 	Almazrouei	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+4446	1249	Umm Al Quwain	Name 80 	Alali	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+S135	1245	Abu Dhabi	Name 41 	Alshamsi	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+S381	1244	Abu Dhabi	Name 142 	Almansoori	Fujairah_Emirati	Fujairah_Emirati	Alzeyoodi	Name 15
+FG87	1056	Abu Dhabi	Name 8c	Alkhateri	Dubai_Emirati	Dubai_Emirati	Badwawi	Other
+3096	951	Ajman	Name_	Algefli	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Baniyas	Other
+3934	942	Abu Dhabi	Name 142 	Almansoori	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Baniyas	Other
+2228	960	Abu Dhabi	Name 66 	Almazrouei	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Echtibi	Other
+2583	954	Sharjah	Name 12	Alqaydi	Abu_Dhabi_Emirati	Abu_Dhabi_Emirati	Echtibi	Other
+S359	1061	Ras Al Khaimah	Name 89 	Alshehhi	Fujairah_Emirati	Fujairah_Emirati	Khasouni	Other
+1AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+1AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+1AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+1AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+1AJ143	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+2AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+2AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+2AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+2AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+2AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+2AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+2AL34	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+3AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+3AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+3AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+3AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+3AJ143	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+3AL34	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+3AQ166	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+4AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+4AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+4AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+4AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+4AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+4AJ143	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+4AL34	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+4AL97	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+5AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+5AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+5AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+5AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+5AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+5AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+5AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+5AL34	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+6AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+6AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+6AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+6AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+6AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+6AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+6AL34	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+7AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+7AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+7AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+7AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+7AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+7AQ59	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+8AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+8AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+8AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+8AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+8AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+8AL34	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+9AJ1	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+9AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+9AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+9AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+10AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+10AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+10AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+10AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+10AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+10AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+11AJ1	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+11AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+11AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+11AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+11AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+11AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+11AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+12AJ1	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+12AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+12AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+12AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+12AJ136	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+12AJ139	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+13AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+13AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+13AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+14AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+14AJ129	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+15AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+15AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+15AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+16AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+16AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+16AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+16AJ137	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+17AJ61	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+17AJ63	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+17AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+19AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+19AQ59	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+20AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+21AJ57	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+21AJ68	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+22AJ57	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+23AJ57	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+24AJ57	#N/A	#N/A	#N/A	#N/A	Egypt	Egypt		
+egpg5305763	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305765	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305767	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305770	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305771	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305773	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305775	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305776	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305778	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305781	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305783	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305786	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305787	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305788	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305791	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305792	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305793	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305794	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305795	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305796	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305797	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305798	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305799	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305803	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305804	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305806	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305807	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305808	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305813	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305819	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305821	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305822	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305823	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305825	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305827	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305829	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305830	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305831	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305833	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305834	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305838	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305842	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305846	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305850	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305854	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305855	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305857	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305862	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305863	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305866	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305870	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305871	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305873	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305878	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305879	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305881	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305886	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305887	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305889	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305893	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305894	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305895	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305903	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305904	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305905	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305910	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305911	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305913	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305918	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305919	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305921	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305926	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305927	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305928	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305929	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305934	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305936	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305937	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305941	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305942	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305944	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305945	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305950	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305951	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305952	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305953	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305959	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305960	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305961	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305967	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305968	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305969	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305970	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305971	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305972	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305974	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305975	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305991	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305994	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305995	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5305998	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306000	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306003	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306006	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306007	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306008	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306011	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306015	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306016	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306019	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306022	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306030	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306031	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306032	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306038	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306040	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306042	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306043	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306046	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+egpg5306048	#N/A	#N/A	#N/A	#N/A	Ethiopia	Ethiopia		
+GS000013705-ASM	#N/A	#N/A	#N/A	#N/A	Kazakhstan	Western_Asia		
+GS000013706-ASM	#N/A	#N/A	#N/A	#N/A	Kazakhstan	Western_Asia		
+GS000013724-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000013739-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000013740-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000013741-ASM	#N/A	#N/A	#N/A	#N/A	Azerbaijan	Caucasus		
+GS000013742-ASM	#N/A	#N/A	#N/A	#N/A	Azerbaijan	Caucasus		
+GS000013745-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000013746-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000013747-ASM	#N/A	#N/A	#N/A	#N/A	Iran	Iran		
+GS000013749-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000013750-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000013751-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000013752-ASM	#N/A	#N/A	#N/A	#N/A	Kazakhstan	Western_Asia		
+GS000013754-ASM	#N/A	#N/A	#N/A	#N/A	Bosnia-Herzegovina	South_Eastern_Europe		
+GS000013755-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000013757-ASM	#N/A	#N/A	#N/A	#N/A	Kyrgyzstan	Western_Asia		
+GS000013758-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000014324-ASM	#N/A	#N/A	#N/A	#N/A	Belarus	Eastern_Europe		
+GS000014325-ASM	#N/A	#N/A	#N/A	#N/A	Bosnia-Herzegovina	South_Eastern_Europe		
+GS000014351-ASM	#N/A	#N/A	#N/A	#N/A	Belarus	Eastern_Europe		
+GS000014352-ASM	#N/A	#N/A	#N/A	#N/A	Bosnia-Herzegovina	South_Eastern_Europe		
+GS000014363-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014364-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014365-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014366-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014368-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014370-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014404-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014405-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014406-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014407-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014408-ASM	#N/A	#N/A	#N/A	#N/A	Georgia	Caucasus		
+GS000014409-ASM	#N/A	#N/A	#N/A	#N/A	Georgia	Caucasus		
+GS000014410-ASM	#N/A	#N/A	#N/A	#N/A	Georgia	Caucasus		
+GS000014411-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014412-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014413-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014414-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014415-ASM	#N/A	#N/A	#N/A	#N/A	Kazakhstan	Western_Asia		
+GS000014417-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000014421-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000014474-ASM	#N/A	#N/A	#N/A	#N/A	Jordan	Levant		
+GS000014475-ASM	#N/A	#N/A	#N/A	#N/A	Iran	Iran		
+GS000015869-ASM	#N/A	#N/A	#N/A	#N/A	Poland	Eastern_Europe		
+GS000015870-ASM	#N/A	#N/A	#N/A	#N/A	Bosnia-Herzegovina	South_Eastern_Europe		
+GS000015871-ASM	#N/A	#N/A	#N/A	#N/A	Bosnia-Herzegovina	South_Eastern_Europe		
+GS000015872-ASM	#N/A	#N/A	#N/A	#N/A	Bosnia-Herzegovina	South_Eastern_Europe		
+GS000015873-ASM	#N/A	#N/A	#N/A	#N/A	Bosnia-Herzegovina	South_Eastern_Europe		
+GS000016104-ASM	#N/A	#N/A	#N/A	#N/A	Belarus	Eastern_Europe		
+GS000016135-ASM	#N/A	#N/A	#N/A	#N/A	Israel	Levant		
+GS000016136-ASM	#N/A	#N/A	#N/A	#N/A	Israel	Levant		
+GS000016137-ASM	#N/A	#N/A	#N/A	#N/A	Israel	Levant		
+GS000016170-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000016171-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000016172-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000016176-ASM	#N/A	#N/A	#N/A	#N/A	Kazakhstan	Western_Asia		
+GS000016177-ASM	#N/A	#N/A	#N/A	#N/A	Kyrgyzstan	Western_Asia		
+GS000016179-ASM	#N/A	#N/A	#N/A	#N/A	Iran	Iran		
+GS000016181-ASM	#N/A	#N/A	#N/A	#N/A	Jordan	Levant		
+GS000016187-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000016188-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000016189-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000016191-ASM	#N/A	#N/A	#N/A	#N/A	Kyrgyzstan	Western_Asia		
+GS000016192-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000016193-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000016194-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000016195-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000016196-ASM	#N/A	#N/A	#N/A	#N/A	Tajikistan	Western_Asia		
+GS000016197-ASM	#N/A	#N/A	#N/A	#N/A	Kyrgyzstan	Western_Asia		
+GS000016206-ASM	#N/A	#N/A	#N/A	#N/A	Israel	Levant		
+GS000016212-ASM	#N/A	#N/A	#N/A	#N/A	Israel	Levant		
+GS000016213-ASM	#N/A	#N/A	#N/A	#N/A	Israel	Levant		
+GS000016217-ASM	#N/A	#N/A	#N/A	#N/A	Israel	Levant		
+GS000016798-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016799-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016800-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016801-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016802-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016803-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016804-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016805-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016806-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016807-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016808-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016809-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016821-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016875-ASM	#N/A	#N/A	#N/A	#N/A	Iran	Iran		
+GS000016885-ASM	#N/A	#N/A	#N/A	#N/A	Israel	Levant		
+GS000016888-ASM	#N/A	#N/A	#N/A	#N/A	Poland	Eastern_Europe		
+GS000016889-ASM	#N/A	#N/A	#N/A	#N/A	Poland	Eastern_Europe		
+GS000016890-ASM	#N/A	#N/A	#N/A	#N/A	Poland	Eastern_Europe		
+GS000016899-ASM	#N/A	#N/A	#N/A	#N/A	Moldova	South_Eastern_Europe		
+GS000016900-ASM	#N/A	#N/A	#N/A	#N/A	Moldova	South_Eastern_Europe		
+GS000016901-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000016902-ASM	#N/A	#N/A	#N/A	#N/A	Hungary	Eastern_Europe		
+GS000016903-ASM	#N/A	#N/A	#N/A	#N/A	Latvia	Eastern_Europe		
+GS000016904-ASM	#N/A	#N/A	#N/A	#N/A	Lithuania	Eastern_Europe		
+GS000016905-ASM	#N/A	#N/A	#N/A	#N/A	Lithuania	Eastern_Europe		
+GS000016919-ASM	#N/A	#N/A	#N/A	#N/A	Estonia	Eastern_Europe		
+GS000016964-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016965-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000016966-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000017146-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000017169-ASM	#N/A	#N/A	#N/A	#N/A	Lebanon	Levant		
+GS000017199-ASM	#N/A	#N/A	#N/A	#N/A	Estonia	Eastern_Europe		
+GS000017206-ASM	#N/A	#N/A	#N/A	#N/A	Estonia	Eastern_Europe		
+GS000017208-ASM	#N/A	#N/A	#N/A	#N/A	Estonia	Eastern_Europe		
+GS000017209-ASM	#N/A	#N/A	#N/A	#N/A	Estonia	Eastern_Europe		
+GS000017210-ASM	#N/A	#N/A	#N/A	#N/A	Estonia	Eastern_Europe		
+GS000035021-ASM	#N/A	#N/A	#N/A	#N/A	Albania	South_Eastern_Europe		
+GS000035027-ASM	#N/A	#N/A	#N/A	#N/A	Latvia	Eastern_Europe		
+GS000035028-ASM	#N/A	#N/A	#N/A	#N/A	Uzbekistan	Western_Asia		
+GS000035029-ASM	#N/A	#N/A	#N/A	#N/A	Uzbekistan	Western_Asia		
+GS000035030-ASM	#N/A	#N/A	#N/A	#N/A	Uzbekistan	Western_Asia		
+GS000035034-ASM	#N/A	#N/A	#N/A	#N/A	Bangladesh	South_Asia		
+GS000035035-ASM	#N/A	#N/A	#N/A	#N/A	Bangladesh	South_Asia		
+GS000035036-ASM	#N/A	#N/A	#N/A	#N/A	Bangladesh	South_Asia		
+GS000035037-ASM	#N/A	#N/A	#N/A	#N/A	Nepal	South_Asia		
+GS000035038-ASM	#N/A	#N/A	#N/A	#N/A	Nepal	South_Asia		
+GS000035039-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000035040-ASM	#N/A	#N/A	#N/A	#N/A	Lithuania	Eastern_Europe		
+GS000035113-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000035114-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000035115-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000035118-ASM	#N/A	#N/A	#N/A	#N/A	Uzbekistan	Western_Asia		
+GS000035119-ASM	#N/A	#N/A	#N/A	#N/A	Uzbekistan	Western_Asia		
+GS000035120-ASM	#N/A	#N/A	#N/A	#N/A	Uzbekistan	Western_Asia		
+GS000035121-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000035122-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000035123-ASM	#N/A	#N/A	#N/A	#N/A	India	South_Asia		
+GS000035124-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000035125-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000035126-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000035127-ASM	#N/A	#N/A	#N/A	#N/A	Kazakhstan	Western_Asia		
+GS000035147-ASM	#N/A	#N/A	#N/A	#N/A	Albania	South_Eastern_Europe		
+GS000035148-ASM	#N/A	#N/A	#N/A	#N/A	Latvia	Eastern_Europe		
+GS000035150-ASM	#N/A	#N/A	#N/A	#N/A	Georgia	Caucasus		
+GS000035173-ASM	#N/A	#N/A	#N/A	#N/A	Armenia	Caucasus		
+GS000035174-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000035175-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000035176-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000035177-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000035178-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000035237-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000035238-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000035239-ASM	#N/A	#N/A	#N/A	#N/A	Ukraine	Eastern_Europe		
+GS000035241-ASM	#N/A	#N/A	#N/A	#N/A	Belarus	Eastern_Europe		
+GS000035243-ASM	#N/A	#N/A	#N/A	#N/A	Russia	Russian_Caucasus		
+GS000035434-ASM	#N/A	#N/A	#N/A	#N/A	Albania	South_Eastern_Europe		
+GS000035685-ASM	#N/A	#N/A	#N/A	#N/A	Georgia	Caucasus		
+HG01500	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01501	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01503	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01504	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01506	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01507	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01509	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01510	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01512	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01513	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01515	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01516	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01518	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01519	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01521	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01522	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01524	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01525	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01527	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01528	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01530	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01531	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01536	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01537	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01583	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG01586	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG01589	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG01593	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG01602	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01603	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01605	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01606	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01607	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01608	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01610	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01612	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01613	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01615	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01617	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01618	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01619	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01620	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01623	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01624	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01625	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01626	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01628	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01630	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01631	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01632	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01668	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01669	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01670	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01672	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01673	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01675	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01676	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01678	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01679	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01680	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01682	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01684	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01685	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01686	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01694	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01695	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01697	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01699	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01700	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01702	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01704	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01705	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01707	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01708	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01709	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01710	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01746	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01747	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01756	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01757	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01761	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01762	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01765	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01766	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01767	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01768	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01770	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01771	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01773	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01775	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01776	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01777	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01779	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01781	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01783	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01784	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01785	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG01786	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02219	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02220	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02221	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02223	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02224	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02230	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02231	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02232	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02233	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02235	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02236	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02238	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02239	#N/A	#N/A	#N/A	#N/A	IBS_Spain	IBS_Spain		
+HG02461	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02462	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02464	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02465	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02490	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02491	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02493	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02494	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02561	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02562	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02568	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02570	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02571	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02573	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02574	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02582	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02583	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02585	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02586	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02588	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02589	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02594	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02595	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02597	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02600	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02601	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02603	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02604	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02610	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02611	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02613	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02614	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02620	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02621	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02623	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02624	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02628	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02629	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02634	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02635	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02642	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02643	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02645	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02646	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02648	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02649	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02651	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02652	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02654	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02655	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02657	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02658	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02660	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02661	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02666	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02667	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02675	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02676	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02678	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02679	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02681	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02682	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02684	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02685	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02687	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02688	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02690	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02691	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02694	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02696	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02697	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02699	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02700	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02702	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02703	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02715	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02716	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02721	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02722	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02724	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02725	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02727	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02728	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02731	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02733	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02734	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02736	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02737	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02756	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02757	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02759	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02760	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02763	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02768	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02769	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02771	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02772	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02774	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02775	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02778	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02780	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02783	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02784	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02786	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02787	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02789	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02790	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02792	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02793	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG02798	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02799	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02804	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02805	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02807	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02808	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02810	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02811	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02813	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02814	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02816	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02817	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02819	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02820	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02836	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02837	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02839	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02840	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02851	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02852	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02854	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02855	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02860	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02861	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02870	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02878	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02879	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02881	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02882	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02884	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02885	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02887	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02888	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02890	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02891	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02895	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02896	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02922	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02923	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02938	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02941	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02943	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02944	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02946	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02947	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02952	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02953	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02968	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02970	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02971	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02973	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02974	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02976	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02977	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02979	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02981	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG02982	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG02983	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03006	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03007	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03009	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03012	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03015	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03016	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03018	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03019	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03021	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03022	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03024	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03025	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03027	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03028	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03039	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03040	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03045	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03046	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03048	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03049	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03052	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03054	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03055	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03057	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03058	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03060	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03061	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03063	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03064	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03066	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03069	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03072	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03073	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03074	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03077	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03078	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03079	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03081	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03082	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03084	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03085	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03086	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03088	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03091	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03095	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03096	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03097	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03099	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03100	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03103	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03105	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03108	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03109	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03111	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03112	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03114	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03115	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03117	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03118	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03120	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03121	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03123	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03124	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03126	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03127	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03129	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03130	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03132	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03133	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03135	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03136	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03139	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03157	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03159	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03160	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03162	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03163	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03166	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03168	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03169	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03172	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03175	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03189	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03190	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03193	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03195	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03196	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03198	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03199	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03202	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03209	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03212	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03224	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03225	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03228	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03229	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03234	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03235	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03237	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03238	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03240	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03241	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03246	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03247	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03258	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03259	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03265	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03267	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03268	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03270	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03271	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03279	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03280	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03291	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03294	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03295	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03297	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03298	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03300	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03301	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03303	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03304	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03311	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03313	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03342	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03343	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03351	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03352	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03354	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03363	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03366	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03367	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03369	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03370	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03372	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03376	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03378	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03380	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03382	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03385	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03388	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03391	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03394	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03397	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03401	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03410	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03419	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03428	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03432	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03433	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03436	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03437	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03439	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03442	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03445	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03446	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03449	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03451	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03452	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03455	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03457	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03458	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03460	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03461	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03464	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03469	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03470	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03472	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03473	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03476	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03478	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03479	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03484	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03485	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03488	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03490	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03491	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03499	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03511	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03514	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03515	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03517	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03518	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03520	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03521	#N/A	#N/A	#N/A	#N/A	ESN_Nigeria	ESN_Nigeria		
+HG03538	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03539	#N/A	#N/A	#N/A	#N/A	GWD_Gambia	GWD_Gambia		
+HG03547	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03548	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03556	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03557	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03558	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03559	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03563	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03565	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03567	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03571	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03572	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03575	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03577	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03578	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03583	#N/A	#N/A	#N/A	#N/A	MSL_Sierra_Leone	MSL_Sierra_Leone		
+HG03585	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03589	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03593	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03594	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03595	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03598	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03600	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03603	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03604	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03607	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03611	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03615	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03616	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03619	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03624	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03625	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03629	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03631	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03634	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03636	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03640	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03642	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03643	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03644	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03645	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03646	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03649	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03652	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03653	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03660	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03663	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03667	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03668	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03672	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03673	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03679	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03680	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03681	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03684	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03685	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03686	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03687	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03689	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03690	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03691	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03692	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03693	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03694	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03695	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03696	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03697	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03698	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03702	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03703	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03705	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03706	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03708	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03709	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03711	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03713	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03714	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03716	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03717	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03718	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03720	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03722	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03727	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03729	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03730	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03731	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03733	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03736	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03738	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03740	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03741	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03742	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03743	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03744	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03745	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03746	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03750	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03752	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03753	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03754	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03755	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03756	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03757	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03760	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03762	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03765	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03767	#N/A	#N/A	#N/A	#N/A	PJL_Pakistan	PJL_Pakistan		
+HG03770	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03771	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03772	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03773	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03774	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03775	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03777	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03778	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03779	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03780	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03781	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03782	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03784	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03785	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03786	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03787	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03788	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03789	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03790	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03792	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03793	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03796	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03800	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03802	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03803	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03805	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03808	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03809	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03812	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03814	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03815	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03817	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03821	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03823	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03824	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03826	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03829	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03830	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03832	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03833	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03836	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03837	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03838	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03844	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03846	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03848	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03849	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03850	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03851	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03854	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03856	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03857	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03858	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03861	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03862	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03863	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03864	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03866	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03867	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03868	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03869	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03870	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03871	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03872	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03873	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03874	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03875	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03882	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03884	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03885	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03886	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03887	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03888	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03890	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03894	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03895	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03896	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03897	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03898	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03899	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03900	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03902	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03905	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03907	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03908	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03910	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03911	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03913	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03914	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03916	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03917	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03919	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03920	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03922	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03925	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03926	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03928	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03931	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03934	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03937	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03940	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03941	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG03943	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03944	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03945	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03947	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03949	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03950	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03951	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03953	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03955	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03960	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03963	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03965	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03967	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03968	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03969	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03971	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03973	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03974	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03976	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03977	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03978	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG03985	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03986	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03989	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03990	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03991	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03995	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03998	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG03999	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04001	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04002	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04003	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04006	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04014	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04015	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04017	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04018	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04019	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04020	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04022	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04023	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04025	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04026	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04029	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04033	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04035	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04038	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04039	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04042	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04047	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04054	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04056	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04059	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04060	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04061	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04062	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04063	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04070	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04075	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04076	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04080	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04090	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04093	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04094	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04096	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04098	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04099	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04100	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04106	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04107	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04118	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04131	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04134	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04140	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04141	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04144	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04146	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04152	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04153	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04155	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04156	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04158	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04159	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04161	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04162	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04164	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04171	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04173	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04176	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04177	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04180	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04182	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04183	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04185	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04186	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04188	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04189	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04194	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04195	#N/A	#N/A	#N/A	#N/A	BEB_Bengal	BEB_Bengal		
+HG04198	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04200	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04202	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04206	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04209	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04210	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04211	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04212	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04214	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04216	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04219	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04222	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04225	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04227	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04229	#N/A	#N/A	#N/A	#N/A	STU_Sri_Lanka	STU_Sri_Lanka		
+HG04235	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04238	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+HG04239	#N/A	#N/A	#N/A	#N/A	ITU_India	ITU_India		
+NA18486	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18488	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18489	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18498	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18499	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18501	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18502	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18504	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18505	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18507	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18508	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18510	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18511	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18516	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18517	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18519	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18520	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18522	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18523	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18853	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18856	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18858	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18861	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18864	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18865	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18867	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18868	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18870	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18871	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18873	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18874	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18876	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18877	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18878	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18879	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18881	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18907	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18908	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18909	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18910	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18912	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18915	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18916	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18917	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18923	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18924	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18933	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA18934	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19017	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19019	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19020	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19023	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19024	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19025	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19026	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19027	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19028	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19030	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19031	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19035	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19036	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19037	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19038	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19041	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19042	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19043	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19092	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19093	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19095	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19096	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19098	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19099	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19102	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19107	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19108	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19113	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19114	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19116	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19117	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19118	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19119	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19121	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19129	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19130	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19131	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19137	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19138	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19141	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19143	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19144	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19146	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19147	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19149	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19152	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19153	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19159	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19160	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19171	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19172	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19175	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19184	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19185	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19189	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19190	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19197	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19198	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19200	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19201	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19204	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19206	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19207	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19209	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19210	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19213	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19214	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19222	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19223	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19225	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19235	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19236	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19238	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19239	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19247	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19248	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19256	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19257	#N/A	#N/A	#N/A	#N/A	YRI_Nigeria	YRI_Nigeria		
+NA19307	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19308	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19309	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19310	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19312	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19314	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19315	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19316	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19317	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19318	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19319	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19320	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19321	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19323	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19324	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19327	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19328	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19331	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19332	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19334	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19338	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19346	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19347	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19350	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19351	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19355	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19360	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19372	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19374	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19375	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19376	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19377	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19378	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19379	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19380	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19383	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19384	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19385	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19390	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19391	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19393	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19394	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19395	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19397	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19399	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19401	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19403	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19404	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19428	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19429	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19430	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19431	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19434	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19435	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19436	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19437	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19438	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19439	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19440	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19443	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19445	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19446	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19448	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19449	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19451	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19452	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19454	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19455	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19456	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19457	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19461	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19462	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19463	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19466	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19467	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19468	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19471	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19472	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19473	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19474	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA19475	#N/A	#N/A	#N/A	#N/A	LWK_Kenya	LWK_Kenya		
+NA20502	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20503	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20504	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20505	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20506	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20507	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20508	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20509	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20510	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20511	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20512	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20513	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20514	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20515	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20516	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20517	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20518	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20519	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20520	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20521	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20522	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20524	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20525	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20527	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20528	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20529	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20530	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20531	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20532	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20533	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20534	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20535	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20536	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20538	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20539	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20540	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20541	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20542	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20543	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20544	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20581	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20582	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20585	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20586	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20587	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20588	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20589	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20752	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20753	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20754	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20755	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20756	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20757	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20758	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20759	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20760	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20761	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20762	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20763	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20764	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20765	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20766	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20767	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20768	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20769	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20770	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20771	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20772	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20773	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20774	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20775	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20778	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20783	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20785	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20786	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20787	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20790	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20792	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20795	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20796	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20797	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20798	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20799	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20800	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20801	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20802	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20803	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20804	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20805	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20806	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20807	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20808	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20809	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20810	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20811	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20812	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20813	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20814	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20815	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20818	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20819	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20821	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20822	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20826	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20827	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20828	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20832	#N/A	#N/A	#N/A	#N/A	TSI_Italy	TSI_Italy		
+NA20845	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20846	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20847	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20849	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20850	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20851	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20852	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20853	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20854	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20856	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20858	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20859	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20861	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20862	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20863	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20864	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20866	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20867	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20868	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20869	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20870	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20872	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20874	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20875	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20876	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20877	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20878	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20881	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20882	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20884	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20885	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20886	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20887	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20888	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20889	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20890	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20891	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20892	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20894	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20895	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20896	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20897	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20899	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20900	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20901	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20902	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20903	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20904	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20905	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20906	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20908	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20910	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA20911	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21086	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21087	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21088	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21089	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21090	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21091	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21092	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21093	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21094	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21095	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21097	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21098	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21099	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21100	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21101	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21102	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21103	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21104	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21105	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21106	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21107	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21108	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21109	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21110	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21111	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21112	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21113	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21114	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21115	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21116	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21117	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21118	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21119	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21120	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21122	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21123	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21124	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21125	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21126	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21127	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21128	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21129	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21130	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21133	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21135	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21137	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21141	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21142	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21143	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
+NA21144	#N/A	#N/A	#N/A	#N/A	GIH_India	GIH_India		
